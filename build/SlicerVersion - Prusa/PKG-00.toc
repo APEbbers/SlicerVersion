@@ -1,0 +1,51 @@
+('D:\\OneDrive\\Personal Files\\01_3D Printing\\Software\\PrusaSlicer '
+ 'Scripts\\build\\SlicerVersion - Prusa\\SlicerVersion - Prusa.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'D:\\OneDrive\\Personal Files\\01_3D Printing\\Software\\PrusaSlicer '
+   'Scripts\\build\\SlicerVersion - Prusa\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\OneDrive\\Personal Files\\01_3D Printing\\Software\\PrusaSlicer '
+   'Scripts\\build\\SlicerVersion - Prusa\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\OneDrive\\Personal Files\\01_3D Printing\\Software\\PrusaSlicer '
+   'Scripts\\build\\SlicerVersion - Prusa\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\OneDrive\\Personal Files\\01_3D Printing\\Software\\PrusaSlicer '
+   'Scripts\\build\\SlicerVersion - Prusa\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\OneDrive\\Personal Files\\01_3D Printing\\Software\\PrusaSlicer '
+   'Scripts\\build\\SlicerVersion - Prusa\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\OneDrive\\Personal Files\\01_3D Printing\\Software\\PrusaSlicer '
+   'Scripts\\build\\SlicerVersion - Prusa\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\SKIKK\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\SKIKK\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('SlicerVersion - Prusa',
+   'D:\\OneDrive\\Personal Files\\01_3D Printing\\Software\\PrusaSlicer '
+   'Scripts\\SlicerVersion - Prusa.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

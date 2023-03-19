@@ -4,9 +4,9 @@ Currently only PrusaSlicer is supported.
 
 ## How to use
 ### PrusaSlicer:
-    1. download "SlicerVersion - Prusa.exe" to an folder of your choosing.
-    2. In PrusaSlicer under "Print settings" -> "Output options", add "<Your path\SlicerVersion - Prusa.exe" to "Post-processing scripts".
-![image](https://user-images.githubusercontent.com/10145631/226165482-ab0adc5f-151a-40f3-81f6-1da4c5c0deac.png)
+    1. download "SlicerVersion.exe" to an folder of your choosing.
+    2. In PrusaSlicer under "Print settings" -> "Output options", add "<Your path\SlicerVersion.exe" to "Post-processing scripts".
+![image](https://user-images.githubusercontent.com/10145631/226166141-4d2f764f-84df-4912-8c55-64bacb176417.png)
 
 ### ExtraFileInfo plugin:
     1. add a key "slicer_version".
